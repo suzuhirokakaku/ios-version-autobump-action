@@ -48,7 +48,7 @@ outputs:
   newTag:
     description: 'The newly created tag'
 runs:
-  using: "node12"
+  using: "node16"
   main: "index.js"
 branding:
   color: 'blue'
